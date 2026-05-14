@@ -1,0 +1,17 @@
+{
+  "name": "data-agent",
+  "version": "1.1.14",
+  "ks-meta": {
+    "displayName": "Data Agent（数平官方）",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "xiaguilin"
+      ]
+    }
+  }
+}

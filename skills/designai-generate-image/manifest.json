@@ -1,0 +1,17 @@
+{
+  "name": "designai-generate-image",
+  "version": "1.0.9",
+  "ks-meta": {
+    "displayName": "通用图像生成",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "xiezhengyang"
+      ]
+    }
+  }
+}

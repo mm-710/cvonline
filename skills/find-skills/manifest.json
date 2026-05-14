@@ -1,0 +1,16 @@
+{
+  "name": "find-skills",
+  "version": "1.2.10",
+  "ks-meta": {
+    "displayName": "技能自动搜索",
+    "platform": [
+      "MyFlicker-Work"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "mateng06"
+      ]
+    }
+  }
+}

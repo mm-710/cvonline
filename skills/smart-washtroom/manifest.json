@@ -1,0 +1,20 @@
+{
+  "name": "smart-washtroom",
+  "version": "1.1.5",
+  "ks-meta": {
+    "displayName": "智能卫生间助手",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "dependency": [
+      "kuaishou-sso-login-client"
+    ],
+    "author": {
+      "type": "department",
+      "department": [
+        "快手行政"
+      ]
+    }
+  }
+}

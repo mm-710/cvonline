@@ -1,0 +1,20 @@
+{
+  "name": "docs-shuttle",
+  "version": "1.1.19",
+  "ks-meta": {
+    "displayName": "Docs 文档同步助手",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "dependency": [
+      "kuaishou-sso-login-client"
+    ],
+    "author": {
+      "type": "department",
+      "department": [
+        "快手效能"
+      ]
+    }
+  }
+}

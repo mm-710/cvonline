@@ -1,0 +1,17 @@
+{
+  "name": "agent-browser",
+  "version": "1.1.4",
+  "ks-meta": {
+    "displayName": "浏览器工具",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "mateng06"
+      ]
+    }
+  }
+}

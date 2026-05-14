@@ -1,0 +1,17 @@
+{
+  "name": "meeting-room-booking-direct",
+  "version": "2.0.7",
+  "ks-meta": {
+    "displayName": "会议室预定助手",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "zhanglei25"
+      ]
+    }
+  }
+}

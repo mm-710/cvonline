@@ -1,0 +1,30 @@
+{
+  "name": "bus-query",
+  "version": "1.1.2",
+  "ks-meta": {
+    "displayName": "班车查询",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "dependency": [
+      "kuaishou-sso-login-client"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "zhanglei25"
+      ]
+    }
+  },
+  "permissions": {
+    "network": {
+      "allow": [
+        "xz.corp.kuaishou.com"
+      ]
+    },
+    "tools": [
+      "exec"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "kuaishou-sso-login-client",
+  "version": "1.1.10",
+  "ks-meta": {
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "displayName": "快手内网 SSO 登录",
+    "author": {
+      "type": "user",
+      "username": [
+        "yukeyou"
+      ]
+    }
+  }
+}

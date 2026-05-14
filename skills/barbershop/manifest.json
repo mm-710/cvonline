@@ -1,0 +1,18 @@
+{
+  "name": "barbershop",
+  "version": "20.0.5",
+  "displayName": "快手内部理发店预约",
+  "ks-meta": {
+    "displayName": "理发店预约",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "yangqian07"
+      ]
+    }
+  }
+}

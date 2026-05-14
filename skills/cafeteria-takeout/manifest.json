@@ -1,0 +1,17 @@
+{
+  "name": "cafeteria-takeout",
+  "version": "1.1.2",
+  "ks-meta": {
+    "displayName": "快手外卖订餐",
+    "platform": [
+      "MyFlicker-Work",
+      "MyFlicker-Code"
+    ],
+    "author": {
+      "type": "user",
+      "username": [
+        "zhanglei25"
+      ]
+    }
+  }
+}

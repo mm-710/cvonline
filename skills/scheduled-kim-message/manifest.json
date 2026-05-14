@@ -1,0 +1,16 @@
+{
+  "name": "scheduled-kim-message",
+  "version": "1.1.1",
+  "ks-meta": {
+    "platform": [
+      "MyFlicker-Work"
+    ],
+    "displayName": "定时任务",
+    "author": {
+      "type": "user",
+      "username": [
+        "longtao"
+      ]
+    }
+  }
+}
