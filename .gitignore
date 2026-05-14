@@ -24,3 +24,32 @@ dist-ssr
 # OS
 .DS_Store
 Thumbs.db
+
+# Agent browser profile data
+.cf-web-artifacts-state/
+
+# MyFlicker internal files
+.myflicker/
+.openclaw/
+myflicker/
+
+# Skills (internal, not part of resume project)
+skills/
+
+# Static deploy config (internal)
+.static-site-deploy.json
+
+# User uploaded files
+local-file-in-chat/
+
+# Personal workspace files (not part of resume project)
+AGENTS.md
+SOUL.md
+USER.md
+IDENTITY.md
+TOOLS.md
+HEARTBEAT.md
+BOOTSTRAP.md
+diary/
+memory/
+MEMORY.md
